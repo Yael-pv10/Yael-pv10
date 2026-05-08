@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="assets/banner_git.png" alt="Yael Banner" width="100%" />
+  <img src="assets/Banner_git.png" alt="Yael Banner" width="100%" />
 </p>
 
 <!-- ===================== TITLE ===================== -->
@@ -184,18 +184,13 @@ A creative project based on interactive game logic and simulation concepts.
 ##  Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Yael-pv10">
     <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
