@@ -134,7 +134,6 @@ A creative project based on interactive game logic and simulation concepts.
       </p>
       <a href="https://github.com/Yael-pv10/LabStock">🔗 View Repository</a>
     </td>
-
     <td width="33%" valign="top">
       <h3>💼 SmartBiz Control</h3>
       <p>
@@ -145,7 +144,6 @@ A creative project based on interactive game logic and simulation concepts.
       </p>
       <a href="https://github.com/SmartBiz-Control/Frontend_SmartBiz_Control">🔗 View Repository</a>
     </td>
-
     <td width="33%" valign="top">
       <h3>🎮 GameNasaFarm</h3>
       <p>
