@@ -1,15 +1,13 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="assets/Banner_git.png" alt="Yael Banner" width="100%" />
+  <img src="assets/banner_git.png" alt="Yael Banner" width="100%" />
 </p>
 
 <!-- ===================== TITLE ===================== -->
-<h1 align="center">
-  Hi, I'm Yael 👋
-</h1>
+<h1 align="center">Hi, I'm Yael 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;IoT+%26+Cloud+Enthusiast;Computer+Engineering+Student;Building+real-world+solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;IoT+%26+Cloud+Enthusiast;Computer+Engineering+Student;Building+real-world+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,9 +26,14 @@ I'm **Yael**, a Computer Engineering student focused on building modern software
 
 I enjoy developing projects that include real-time data processing, dashboards, scalable backend architectures, and hardware communication using embedded systems like ESP32.
 
+- 🔭 Currently building real-world full-stack and IoT systems
+- 🌱 Learning React, Next.js and advanced cloud architecture
+- 💬 Ask me about Node.js, Angular, PostgreSQL or ESP32
+- ⚡ I work mainly on Arch Linux
+
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -83,75 +86,65 @@ I enjoy developing projects that include real-time data processing, dashboards, 
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-### 🧪 LabStock
- **Laboratory Inventory Management System**  
- Repo: https://github.com/Yael-pv10/LabStock
+### 🧪 LabStock — Laboratory Inventory Management System
 
 A complete system to manage laboratory inventory, loans, maintenance, and reporting with real-time updates.
 
 **Main Features**
-- Role-based system (Admin, Teacher, Technician, Student)
+- Role-based access control (Admin, Teacher, Technician, Student)
 - Real-time updates with Socket.IO
 - PDF and Excel report generation
 - PostgreSQL database integration
 - Secure authentication and sessions
 
-**Tech Stack:** Node.js, Express, PostgreSQL, Socket.IO, PDFKit, ExcelJS
+**Tech Stack:** Node.js · Express · PostgreSQL · Socket.IO · PDFKit · ExcelJS
+
+🔗 [View Repository](https://github.com/Yael-pv10/LabStock)
 
 ---
 
-###  SmartBiz Control (Frontend)
-📦 **Enterprise Management Frontend**  
-🔗 Repo: https://github.com/SmartBiz-Control/Frontend_SmartBiz_Control
+### 💼 SmartBiz Control — Enterprise Management Frontend
 
 Angular frontend designed for business control and enterprise management.
 
-**Tech Stack:** Angular, TypeScript, HTML, CSS
+**Tech Stack:** Angular · TypeScript · HTML · CSS
+
+🔗 [View Repository](https://github.com/SmartBiz-Control/Frontend_SmartBiz_Control)
 
 ---
 
-###  GameNasaFarm
-📦 **Interactive Game Project**  
-🔗 Repo: https://github.com/Yael-pv10/GameNasaFarm
+### 🎮 GameNasaFarm — Interactive Game Project
 
 A creative project based on interactive game logic and simulation concepts.
 
+**Tech Stack:** JavaScript
+
+🔗 [View Repository](https://github.com/Yael-pv10/GameNasaFarm)
+
 ---
 
-##  Pinned Repositories (Recommended)
+## 📌 Pinned Repositories
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3>🧪 LabStock</h3>
-      <p>
-        Laboratory inventory & loan management system with real-time updates and reporting.
-      </p>
-      <p>
-        <b>Tech:</b> Node.js, Express, PostgreSQL, Socket.IO
-      </p>
+      <p>Laboratory inventory &amp; loan management system with real-time updates and reporting.</p>
+      <p><b>Tech:</b> Node.js, Express, PostgreSQL, Socket.IO</p>
       <a href="https://github.com/Yael-pv10/LabStock">🔗 View Repository</a>
     </td>
     <td width="33%" valign="top">
       <h3>💼 SmartBiz Control</h3>
-      <p>
-        Enterprise-focused Angular frontend designed for business administration and control.
-      </p>
-      <p>
-        <b>Tech:</b> Angular, TypeScript, HTML, CSS
-      </p>
+      <p>Enterprise-focused Angular frontend designed for business administration and control.</p>
+      <p><b>Tech:</b> Angular, TypeScript, HTML, CSS</p>
       <a href="https://github.com/SmartBiz-Control/Frontend_SmartBiz_Control">🔗 View Repository</a>
     </td>
     <td width="33%" valign="top">
       <h3>🎮 GameNasaFarm</h3>
-      <p>
-        Interactive game project inspired by simulation concepts and creative challenges.
-      </p>
-      <p>
-        <b>Tech:</b> JavaScript (update later)
-      </p>
+      <p>Interactive game project inspired by simulation concepts and creative challenges.</p>
+      <p><b>Tech:</b> JavaScript</p>
       <a href="https://github.com/Yael-pv10/GameNasaFarm">🔗 View Repository</a>
     </td>
   </tr>
@@ -170,27 +163,32 @@ A creative project based on interactive game logic and simulation concepts.
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yael-pv10&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-pv10&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yael-pv10&show_icons=true&count_private=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-pv10&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yael-pv10&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-##  Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/Yael-pv10">
     <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="mailto:yaelpalacios26@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
 
 ---
 
-⭐ *Profile README constantly updated as I build new projects and improve my stack.*
-
+<p align="center">
+  <i>⭐ Profile README constantly updated as I build new projects and improve my stack.</i>
+</p>
